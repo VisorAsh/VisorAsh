@@ -24,7 +24,7 @@ Devoloper
 <!-- I love code -->
 
 * ✉️  You can contact me at [hishaamtchirou73@gmail.com](mailto:hishaamtchirou73@gmail.com)
-* 🧠  
+<!-- * 🧠 -->
 * 🤝  I'm open to collaborating on interesting projects.
 
 
