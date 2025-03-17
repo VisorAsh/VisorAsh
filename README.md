@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 Hi 👋🏾 I'm Hishaam TCHIROU.
 ======================================================================================================================================
 
-I’m Web Developer and Figma Designer
+I’m a Fullstack Web Developer and Figma Designer
 ---------
 
-* ✉️  You can contact me at hishaamtchirou73@gmail.com
+<!-- * ✉️  You can contact me at hishaamtchirou73@gmail.com -->
 * 🤝  I'm open to collaborating on interesting projects.
 
 
